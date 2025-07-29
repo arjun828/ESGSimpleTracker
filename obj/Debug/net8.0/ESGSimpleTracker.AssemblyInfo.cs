@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESGSimpleTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+979f3859f6f8a3e956c45d48a2c784ac2f33dd1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43049d94c62ce446a48e9586e480c6dc5ae0aeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESGSimpleTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESGSimpleTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
